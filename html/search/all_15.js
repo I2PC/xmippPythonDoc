@@ -16,6 +16,5 @@ var searchData=
   ['use_5fmultiprocessing',['use_multiprocessing',['../namespacedeepResLearner_1_1cnn__deepRes__1__7.html#a974ce9187fe57db88494d2bfe2da4042',1,'deepResLearner.cnn_deepRes_1_7.use_multiprocessing()'],['../namespacedeepResLearner_1_1cnn__deepRes__2__13.html#ad1a29e6ce533d8586bd12edb7910bc24',1,'deepResLearner.cnn_deepRes_2_13.use_multiprocessing()']]],
   ['useasref',['useAsRef',['../classxmipp3_1_1protocols_1_1protocol__classification__gpuCorr__semi_1_1XmippProtStrGpuCrrSimple.html#a86103c17bc3d54224c9ae6046b1264fb',1,'xmipp3::protocols::protocol_classification_gpuCorr_semi::XmippProtStrGpuCrrSimple']]],
   ['usingxmipp',['usingXmipp',['../classxmipp3_1_1protocols_1_1protocol__ctf__consensus_1_1XmippProtCTFConsensus.html#a1014a55e2abd6d0f9a53928aae733bef',1,'xmipp3::protocols::protocol_ctf_consensus::XmippProtCTFConsensus']]],
-  ['utils_2epy',['utils.py',['../xmipp_2libraries_2py__xmipp_2deepLearningToolkitUtils_2utils_8py.html',1,'']]],
-  ['utils_2epy',['utils.py',['../scipion-em-xmipp_2xmipp3_2utils_8py.html',1,'']]]
+  ['utils_2epy',['utils.py',['../scipion-em-xmipp_2xmipp3_2utils_8py.html',1,'(Global Namespace)'],['../xmipp_2libraries_2py__xmipp_2deepLearningToolkitUtils_2utils_8py.html',1,'(Global Namespace)']]]
 ];

@@ -12,7 +12,7 @@ var searchData=
   ['defmatrix',['defMatrix',['../classxmipp3_1_1protocols_1_1protocol__consensus__local__ctf_1_1XmippProtConsensusLocalCTF.html#ada1b6574f11b53ee1aafbf4677ac6728',1,'xmipp3::protocols::protocol_consensus_local_ctf::XmippProtConsensusLocalCTF']]],
   ['defocusangle',['defocusAngle',['../namespacexmipp3_1_1tests_1_1test__protocols__subtract__projection.html#a1ca49980af1e5891af2cd83a9ad6b905',1,'xmipp3::tests::test_protocols_subtract_projection']]],
   ['defocuslist',['defocusList',['../namespacexmipp3_1_1tests_1_1test__protocols__subtract__projection.html#a1b60bd0fc9ca8404286c9b37d1cb02b2',1,'xmipp3::tests::test_protocols_subtract_projection']]],
-  ['delta',['delta',['../namespacePython__Animation.html#a34b3691778f1fc9d162494a7c653390f',1,'Python_Animation']]],
+  ['delta',['delta',['../namespacePython__Animation.html#a43cf84c0b091af40ac5a234d261ac3b4',1,'Python_Animation']]],
   ['deltarot',['deltaRot',['../classxmipp3_1_1protocols_1_1protocol__helical__parameters_1_1XmippProtHelicalParameters.html#ad04209b43c48c60ab4f7c55e07fece6b',1,'xmipp3::protocols::protocol_helical_parameters::XmippProtHelicalParameters']]],
   ['deltaz',['deltaZ',['../classxmipp3_1_1protocols_1_1protocol__helical__parameters_1_1XmippProtHelicalParameters.html#a56b099e1a3109906c8b44f4b47558a9e',1,'xmipp3::protocols::protocol_helical_parameters::XmippProtHelicalParameters']]],
   ['depth',['depth',['../classxmipp3_1_1protocols_1_1protocol__classification__gpuCorr_1_1XmippProtGpuCrrCL2D.html#a0b9e13c1c675f4bb8f8b698c5f2bb3ad',1,'xmipp3::protocols::protocol_classification_gpuCorr::XmippProtGpuCrrCL2D']]],

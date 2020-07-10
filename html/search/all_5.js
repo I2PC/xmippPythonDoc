@@ -6,7 +6,7 @@ var searchData=
   ['enablecls',['enableCls',['../classxmipp3_1_1protocols_1_1protocol__eliminate__empty__images_1_1XmippProtEliminateEmptyClasses.html#a09c2019371a3892cee2708f795f4fb19',1,'xmipp3::protocols::protocol_eliminate_empty_images::XmippProtEliminateEmptyClasses']]],
   ['encoding',['encoding',['../namespacesetup.html#a443be2d01fd539bf6761aff70724d876',1,'setup']]],
   ['end_5fang',['end_ang',['../classpython_1_1tompy_1_1filter_1_1SingleTiltWedge.html#adaf8b92e0524455dfaf14b1e0fd20573',1,'python::tompy::filter::SingleTiltWedge']]],
-  ['enlarge2',['enlarge2',['../namespaceswig__frm.html#a1973025060300444f5de0bf703a0f9d2',1,'swig_frm.enlarge2()'],['../namespacepython_1_1frm.html#ad3bf0c71495f4d15ff0d0584f2d1c53e',1,'python.frm.enlarge2()'],['../namespaceswig__frm.html#a7d4646f95f81902607a01c502c17859a',1,'swig_frm.enlarge2()']]],
+  ['enlarge2',['enlarge2',['../namespaceswig__frm.html#a2a390474ab371e53657186426d1d6ac6',1,'swig_frm.enlarge2()'],['../namespacepython_1_1frm.html#ad3bf0c71495f4d15ff0d0584f2d1c53e',1,'python.frm.enlarge2()'],['../namespaceswig__frm.html#a7d4646f95f81902607a01c502c17859a',1,'swig_frm.enlarge2()']]],
   ['entry_5fpoints',['entry_points',['../namespacesetup.html#ada7058afc98897f073d3f3b8b9157059',1,'setup']]],
   ['env',['env',['../classtests_1_1test_1_1Command.html#a81e2f902eae3b3a815dbee5314e73bd0',1,'tests::test::Command']]],
   ['epochs',['epochs',['../namespacedeepResLearner_1_1cnn__deepRes__1__7.html#a72af89e3a6f794ff110c1ccf0fc763b6',1,'deepResLearner.cnn_deepRes_1_7.epochs()'],['../namespacedeepResLearner_1_1cnn__deepRes__2__13.html#a5fe85d03fb282af5a9cd71c9b4295a0e',1,'deepResLearner.cnn_deepRes_2_13.epochs()']]],

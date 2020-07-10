@@ -108,7 +108,7 @@ var searchData=
   ['setvols',['setVols',['../classxmipp3_1_1tests_1_1test__protocols__add__noise_1_1TestAddNoiseBase.html#a33e4a382f2799171a1f536e5e52a99ee',1,'xmipp3::tests::test_protocols_add_noise::TestAddNoiseBase']]],
   ['setxmippattribute',['setXmippAttribute',['../namespacexmipp3_1_1convert_1_1convert.html#a1912e33de1daa94373394c7456cf3cee',1,'xmipp3::convert::convert']]],
   ['setxmippattributes',['setXmippAttributes',['../namespacexmipp3_1_1convert_1_1convert.html#aaf1d6a472a83597aabf4a36ff81da171',1,'xmipp3::convert::convert']]],
-  ['sf',['sf',['../namespacepython_1_1vol2sf.html#aed395102e6133712579e9c04b89c439d',1,'python::vol2sf']]],
+  ['sf',['sf',['../namespacepython_1_1vol2sf.html#a67b05e53f61a78020689c7fffe6a8552',1,'python::vol2sf']]],
   ['sf2file',['sf2file',['../namespacepython_1_1vol2sf.html#aa90d22a366cda334fb3a256cd647a252',1,'python::vol2sf']]],
   ['sfctf',['SFctf',['../classxmipp__protocol__preprocess__micrographs__backup_1_1preprocess__A__class.html#ae250a8a914db1d0a8db6f8371b2ef03e',1,'xmipp_protocol_preprocess_micrographs_backup.preprocess_A_class.SFctf()'],['../classxmipp__protocol__preprocess__micrographs_1_1preprocess__A__class.html#a602d398d695ee93fc99ecd3052c8bba6',1,'xmipp_protocol_preprocess_micrographs.preprocess_A_class.SFctf()']]],
   ['sfctffind',['SFctffind',['../classxmipp__protocol__preprocess__micrographs__backup_1_1preprocess__A__class.html#aa96d0bd4baaa218c7927193f6994eec8',1,'xmipp_protocol_preprocess_micrographs_backup.preprocess_A_class.SFctffind()'],['../classxmipp__protocol__preprocess__micrographs_1_1preprocess__A__class.html#a3a9348cc72c1f95a125b849163753b04',1,'xmipp_protocol_preprocess_micrographs.preprocess_A_class.SFctffind()']]],
