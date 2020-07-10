@@ -18,6 +18,7 @@ var searchData=
   ['scriptpluginij',['ScriptPluginIJ',['../classxmippViz_1_1ScriptPluginIJ.html',1,'xmippViz']]],
   ['scriptprepromics',['ScriptPreproMics',['../classpreprocess__mics_1_1ScriptPreproMics.html',1,'preprocess_mics']]],
   ['scriptshowj',['ScriptShowJ',['../classxmippViz_1_1ScriptShowJ.html',1,'xmippViz']]],
+  ['setup_5fprotocols_5fclass',['setup_protocols_class',['../classxmipp__protocol__setup_1_1setup__protocols__class.html',1,'xmipp_protocol_setup']]],
   ['singletiltwedge',['SingleTiltWedge',['../classpython_1_1tompy_1_1filter_1_1SingleTiltWedge.html',1,'python::tompy::filter']]],
   ['solidanglesviewer',['SolidAnglesViewer',['../classxmipp3_1_1viewers_1_1viewer__solid__angles_1_1SolidAnglesViewer.html',1,'xmipp3::viewers::viewer_solid_angles']]],
   ['statistics',['Statistics',['../classxmipp3_1_1viewers_1_1viewer__validate__fscq_1_1Statistics.html',1,'xmipp3::viewers::viewer_validate_fscq']]]

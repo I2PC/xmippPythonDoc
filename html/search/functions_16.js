@@ -9,6 +9,8 @@ var searchData=
   ['validationstep',['validationStep',['../classxmipp3_1_1protocols_1_1protocol__validate__nontilt_1_1XmippProtValidateNonTilt.html#abb4b961069c4254e9ae33afc7998c48e',1,'xmipp3::protocols::protocol_validate_nontilt::XmippProtValidateNonTilt']]],
   ['viewvolumessqlite',['viewVolumesSqlite',['../classxmipp3_1_1viewers_1_1viewer__projmatch_1_1XmippProjMatchViewer.html#ab055d0fa5da7994663b50e47f3ace6b0',1,'xmipp3::viewers::viewer_projmatch::XmippProjMatchViewer']]],
   ['visittests',['visitTests',['../namespacetests_1_1test.html#ad7bdccacf571d13e1309460a2f3a9366',1,'tests::test']]],
+  ['visualize_5fctfs',['visualize_ctfs',['../classvisualize__preprocess__micrographs_1_1visualize__micrographs__class.html#a88bd8ceec56fbc6d5ad4f7229379737c',1,'visualize_preprocess_micrographs::visualize_micrographs_class']]],
+  ['visualize_5fpsds',['visualize_psds',['../classvisualize__preprocess__micrographs_1_1visualize__micrographs__class.html#ab579cfe608815c2f5785374d42e21cec',1,'visualize_preprocess_micrographs::visualize_micrographs_class']]],
   ['vol2sf',['vol2sf',['../namespacepython_1_1vol2sf.html#a0884eb236a6908b763bf1eba5aa10a7e',1,'python::vol2sf']]],
   ['volumealignmentstep',['volumeAlignmentStep',['../classxmipp3_1_1protocols_1_1protocol__enrich_1_1XmippProtEnrich.html#a44ba62b9a80a35ece8fb0580a3af6eda',1,'xmipp3::protocols::protocol_enrich::XmippProtEnrich']]],
   ['volumeconvertstep',['volumeConvertStep',['../classxmipp3_1_1protocols_1_1protocol__projmatch_1_1protocol__projmatch_1_1XmippProtProjMatch.html#a1583ddebc323079febd8dab6c9b9b274',1,'xmipp3::protocols::protocol_projmatch::protocol_projmatch::XmippProtProjMatch']]],
