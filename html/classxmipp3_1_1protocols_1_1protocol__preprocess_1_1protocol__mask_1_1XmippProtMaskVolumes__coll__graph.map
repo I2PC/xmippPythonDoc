@@ -1,0 +1,5 @@
+<map id="xmipp3.protocols.protocol_preprocess.protocol_mask.XmippProtMaskVolumes" name="xmipp3.protocols.protocol_preprocess.protocol_mask.XmippProtMaskVolumes">
+<area shape="rect" id="node3" href="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__process_1_1XmippProcessVolumes.html" title="xmipp3.protocols.protocol\l_preprocess.protocol_process.Xmipp\lProcessVolumes" alt="" coords="217,56,455,112"/>
+<area shape="rect" id="node5" href="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__mask_1_1XmippProtMask.html" title="xmipp3.protocols.protocol\l_preprocess.protocol_mask.Xmipp\lProtMask" alt="" coords="225,136,447,192"/>
+<area shape="rect" id="node6" href="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1geometrical__mask_1_1XmippGeometricalMask3D.html" title="xmipp3.protocols.protocol\l_preprocess.geometrical\l_mask.XmippGeometricalMask3D" alt="" coords="225,216,447,272"/>
+</map>
