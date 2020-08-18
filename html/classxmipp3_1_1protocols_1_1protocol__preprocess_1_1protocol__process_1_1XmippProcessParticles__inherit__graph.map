@@ -1,0 +1,7 @@
+<map id="xmipp3.protocols.protocol_preprocess.protocol_process.XmippProcessParticles" name="xmipp3.protocols.protocol_preprocess.protocol_process.XmippProcessParticles">
+<area shape="rect" id="node3" href="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__crop__resize_1_1XmippProtCropResizeParticles.html" title="xmipp3.protocols.protocol\l_preprocess.protocol_crop\l_resize.XmippProtCropResizeParticles" alt="" coords="495,5,744,61"/>
+<area shape="rect" id="node4" href="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__filter_1_1XmippProtFilterParticles.html" title="xmipp3.protocols.protocol\l_preprocess.protocol_filter.Xmipp\lProtFilterParticles" alt="" coords="511,85,727,141"/>
+<area shape="rect" id="node5" href="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__image__operate_1_1XmippProtImageOperateParticles.html" title="xmipp3.protocols.protocol\l_preprocess.protocol_image\l_operate.XmippProtImageOperateParticles" alt="" coords="484,165,755,221"/>
+<area shape="rect" id="node6" href="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__mask_1_1XmippProtMaskParticles.html" title="xmipp3.protocols.protocol\l_preprocess.protocol_mask.Xmipp\lProtMaskParticles" alt="" coords="508,245,731,301"/>
+<area shape="rect" id="node7" href="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__preprocess_1_1XmippProtPreprocessParticles.html" title="xmipp3.protocols.protocol\l_preprocess.protocol_preprocess.\lXmippProtPreprocessParticles" alt="" coords="510,325,729,381"/>
+</map>
