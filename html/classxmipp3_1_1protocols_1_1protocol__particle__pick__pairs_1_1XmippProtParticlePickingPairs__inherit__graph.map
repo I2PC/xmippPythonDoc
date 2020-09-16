@@ -1,0 +1,4 @@
+<map id="xmipp3.protocols.protocol_particle_pick_pairs.XmippProtParticlePickingPairs" name="xmipp3.protocols.protocol_particle_pick_pairs.XmippProtParticlePickingPairs">
+<area shape="rect" id="node4" href="$classxmipp3_1_1protocols_1_1protocol__assignment__tilt__pair_1_1XmippProtAssignmentTiltPair.html" title="xmipp3.protocols.protocol\l_assignment_tilt_pair.XmippProt\lAssignmentTiltPair" alt="" coords="59,184,269,240"/>
+<area shape="rect" id="node3" href="$classxmipp3_1_1base_1_1XmippProtocol.html" title="xmipp3.base.XmippProtocol" alt="" coords="163,5,349,32"/>
+</map>
