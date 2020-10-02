@@ -1,6 +1,0 @@
-<map id="xmipp3.viewers.viewer.XmippViewer" name="xmipp3.viewers.viewer.XmippViewer">
-<area shape="rect" id="node3" href="$classxmipp3_1_1viewers_1_1viewer__ransac_1_1XmippViewerRansac.html" title="xmipp3.viewers.viewer\l_ransac.XmippViewerRansac" alt="" coords="405,5,600,47"/>
-<area shape="rect" id="node4" href="$classxmipp3_1_1viewers_1_1viewer__split__volume_1_1XmippViewerSplitVolume.html" title="xmipp3.viewers.viewer\l_split_volume.XmippViewerSplit\lVolume" alt="" coords="398,71,607,127"/>
-<area shape="rect" id="node5" href="$classxmipp3_1_1viewers_1_1viewer__swarm_1_1XmippReconstructSwarmViewer.html" title="xmipp3.viewers.viewer\l_swarm.XmippReconstructSwarm\lViewer" alt="" coords="392,151,613,207"/>
-<area shape="rect" id="node6" href="$classxmipp3_1_1viewers_1_1viewer__volume__strain_1_1XmippVolumeStrainViewer.html" title="xmipp3.viewers.viewer\l_volume_strain.XmippVolumeStrain\lViewer" alt="" coords="388,231,617,287"/>
-</map>
