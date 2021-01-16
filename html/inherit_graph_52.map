@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$classxmipp3_1_1viewers_1_1viewer__deepEMHancer_1_1viewerXmippProtDeepVolPostProc.html" title="xmipp3.viewers.viewer\l_deepEMHancer.viewerXmippProt\lDeepVolPostProc" alt="" coords="116,5,339,61"/>
-<area shape="rect" id="node3" href="$classxmipp3_1_1viewers_1_1viewer__local__sharpening_1_1viewerXmippProtLocSharp.html" title="xmipp3.viewers.viewer\l_local_sharpening.viewerXmipp\lProtLocSharp" alt="" coords="125,85,330,141"/>
-<area shape="rect" id="node4" href="$classxmipp3_1_1viewers_1_1viewer__movie__alignment_1_1XmippMovieAlignViewer.html" title="xmipp3.viewers.viewer\l_movie_alignment.XmippMovie\lAlignViewer" alt="" coords="126,165,329,221"/>
-<area shape="rect" id="node5" href="$classxmipp3_1_1viewers_1_1viewer__solid__angles_1_1SolidAnglesViewer.html" title="xmipp3.viewers.viewer\l_solid_angles.SolidAnglesViewer" alt="" coords="120,245,335,286"/>
-<area shape="rect" id="node6" href="$classxmipp3_1_1viewers_1_1viewer__validate__overfitting_1_1XmippValidateOverfittingViewer.html" title="xmipp3.viewers.viewer\l_validate_overfitting.Xmipp\lValidateOverfittingViewer" alt="" coords="138,309,317,365"/>
-</map>
