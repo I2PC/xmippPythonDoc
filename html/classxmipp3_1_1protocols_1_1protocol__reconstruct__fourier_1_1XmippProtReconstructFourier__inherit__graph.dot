@@ -1,8 +1,0 @@
-digraph "xmipp3.protocols.protocol_reconstruct_fourier.XmippProtReconstructFourier"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node0 [label="xmipp3.protocols.protocol\l_reconstruct_fourier.XmippProt\lReconstructFourier",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node1 [label="ProtReconstruct3D",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
-}
