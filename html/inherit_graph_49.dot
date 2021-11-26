@@ -1,0 +1,27 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node400 [label="ProtClassify2D",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node400 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="xmipp3.protocols.protocol\l_center_particles.XmippProtCenter\lParticles",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__center__particles_1_1XmippProtCenterParticles.html"];
+  Node400 -> Node402 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node402 [label="xmipp3.protocols.protocol\l_cl2d.XmippProtCL2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__cl2d_1_1XmippProtCL2D.html"];
+  Node400 -> Node403 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node403 [label="xmipp3.protocols.protocol\l_classify_kmeans2d.XmippProtKmeans\lClassif2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__classify__kmeans2d_1_1XmippProtKmeansClassif2D.html"];
+  Node400 -> Node404 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node404 [label="xmipp3.protocols.protocol\l_eliminate_empty_images.XmippProt\lEliminateEmptyBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__eliminate__empty__images_1_1XmippProtEliminateEmptyBase.html"];
+  Node404 -> Node405 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node405 [label="xmipp3.protocols.protocol\l_eliminate_empty_images.XmippProt\lEliminateEmptyClasses",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__eliminate__empty__images_1_1XmippProtEliminateEmptyClasses.html"];
+  Node404 -> Node406 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node406 [label="xmipp3.protocols.protocol\l_eliminate_empty_images.XmippProt\lEliminateEmptyParticles",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__eliminate__empty__images_1_1XmippProtEliminateEmptyParticles.html"];
+  Node400 -> Node407 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node407 [label="xmipp3.protocols.protocol\l_kerdensom.KendersomBaseClassify",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__kerdensom_1_1KendersomBaseClassify.html"];
+  Node407 -> Node408 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node408 [label="xmipp3.protocols.protocol\l_kerdensom.XmippProtKerdensom",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__kerdensom_1_1XmippProtKerdensom.html"];
+  Node407 -> Node409 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node409 [label="xmipp3.protocols.protocol\l_rotational_spectra.XmippProtRot\lSpectra",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__rotational__spectra_1_1XmippProtRotSpectra.html"];
+  Node400 -> Node410 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node410 [label="xmipp3.protocols.protocol\l_ml2d.XmippProtML2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__ml2d_1_1XmippProtML2D.html"];
+}
