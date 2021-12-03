@@ -1,0 +1,33 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node512 [label="EMProtocol",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node512 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="xmipp3.protocols.protocol\l_consensus_classes3D.XmippProt\lConsensusClasses3D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__consensus__classes3D_1_1XmippProtConsensusClasses3D.html"];
+  Node512 -> Node514 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node514 [label="xmipp3.protocols.protocol\l_extract_asymmetric_unit.Xmipp\lProtExtractUnit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__extract__asymmetric__unit_1_1XmippProtExtractUnit.html"];
+  Node512 -> Node515 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node515 [label="xmipp3.protocols.protocol\l_metaprotocol_create_output.Xmipp\lMetaProtCreateOutput",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__metaprotocol__create__output_1_1XmippMetaProtCreateOutput.html"];
+  Node512 -> Node516 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node516 [label="xmipp3.protocols.protocol\l_metaprotocol_create_subset.Xmipp\lMetaProtCreateSubset",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__metaprotocol__create__subset_1_1XmippMetaProtCreateSubset.html"];
+  Node512 -> Node517 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node517 [label="xmipp3.protocols.protocol\l_metaprotocol_discrete\l_heterogeneity_scheduler.XmippMeta\lProtDiscreteHeterogeneityScheduler",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__metaprotocol__discrete__heterogeneity__scheduler_1_1XmippM3f62c4fa4b97f32867598eeede2b093c.html"];
+  Node512 -> Node518 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node518 [label="xmipp3.protocols.protocol\l_metaprotocol_golden_highres.Xmipp\lMetaProtGoldenHighRes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__metaprotocol__golden__highres_1_1XmippMetaProtGoldenHighRes.html"];
+  Node512 -> Node519 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node519 [label="xmipp3.protocols.protocol\l_phantom_create.XmippProtPhantom",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__phantom__create_1_1XmippProtPhantom.html"];
+  Node512 -> Node520 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node520 [label="xmipp3.protocols.protocol\l_shift_particles.XmippProtShift\lParticles",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__shift__particles_1_1XmippProtShiftParticles.html"];
+  Node512 -> Node521 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node521 [label="xmipp3.protocols.protocol\l_shift_volume.XmippProtShiftVolume",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__shift__volume_1_1XmippProtShiftVolume.html"];
+  Node512 -> Node522 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node522 [label="xmipp3.protocols.protocol\l_trigger_data.XmippProtTriggerData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__trigger__data_1_1XmippProtTriggerData.html"];
+  Node512 -> Node523 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node523 [label="xmipp3.protocols.protocol\l_volume_adjust_sub.XmippProtVol\lAdjBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__volume__adjust__sub_1_1XmippProtVolAdjBase.html"];
+  Node523 -> Node524 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node524 [label="xmipp3.protocols.protocol\l_volume_adjust_sub.XmippProtVol\lAdjust",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__volume__adjust__sub_1_1XmippProtVolAdjust.html"];
+  Node523 -> Node525 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node525 [label="xmipp3.protocols.protocol\l_volume_adjust_sub.XmippProtVol\lSubtraction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__volume__adjust__sub_1_1XmippProtVolSubtraction.html"];
+}
