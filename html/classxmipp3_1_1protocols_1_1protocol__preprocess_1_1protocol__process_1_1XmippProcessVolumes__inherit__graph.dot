@@ -1,0 +1,17 @@
+digraph "xmipp3.protocols.protocol_preprocess.protocol_process.XmippProcessVolumes"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="xmipp3.protocols.protocol\l_preprocess.protocol_process.Xmipp\lProcessVolumes",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="ProtPreprocessVolumes",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="xmipp3.protocols.protocol\l_preprocess.protocol_crop\l_resize.XmippProtCropResizeVolumes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__crop__resize_1_1XmippProtCropResizeVolumes.html"];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="xmipp3.protocols.protocol\l_preprocess.protocol_filter.Xmipp\lProtFilterVolumes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__filter_1_1XmippProtFilterVolumes.html"];
+  Node0 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="xmipp3.protocols.protocol\l_preprocess.protocol_image\l_operate.XmippProtImageOperateVolumes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__image__operate_1_1XmippProtImageOperateVolumes.html"];
+  Node0 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="xmipp3.protocols.protocol\l_preprocess.protocol_mask.Xmipp\lProtMaskVolumes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__mask_1_1XmippProtMaskVolumes.html"];
+}
