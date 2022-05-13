@@ -1,7 +1,0 @@
-digraph "Graphical Class Hierarchy"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node0 [label="xmipp_protocol_preprocess\l_micrographs_backup.preprocess\l_A_class",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp__protocol__preprocess__micrographs__backup_1_1preprocess__A__class.html"];
-}
