@@ -1,0 +1,10 @@
+digraph "xmipp3.protocols.protocol_preprocess.protocol_add_noise.XmippProtAddNoiseVolumes"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node3 [label="xmipp3.protocols.protocol\l_preprocess.protocol_add\l_noise.XmippProtAddNoiseVolumes",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="xmipp3.protocols.protocol\l_preprocess.protocol_add\l_noise.XmippProtAddNoise",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__add__noise_1_1XmippProtAddNoise.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ProtRefine3D",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}
