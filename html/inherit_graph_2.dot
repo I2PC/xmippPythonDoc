@@ -1,0 +1,13 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node249 [label="Module",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node249 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="batch_deep_hand.EM3DNet",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classbatch__deep__hand_1_1EM3DNet.html"];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="batch_deep_hand.AlphaVolNet",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classbatch__deep__hand_1_1AlphaVolNet.html"];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="batch_deep_hand.HandNet",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classbatch__deep__hand_1_1HandNet.html"];
+}
