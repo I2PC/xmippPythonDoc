@@ -1,0 +1,17 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node523 [label="EmProtocolViewer",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node523 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="xmipp3.viewers.viewer\l_deep_align.XmippDeepAlignViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__deep__align_1_1XmippDeepAlignViewer.html"];
+  Node523 -> Node525 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node525 [label="xmipp3.viewers.viewer\l_extract_asymmetric_unit.viewer\lXmippProtExtractUnit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__extract__asymmetric__unit_1_1viewerXmippProtExtractUnit.html"];
+  Node523 -> Node526 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node526 [label="xmipp3.viewers.viewer\l_movie_alignment.XmippMovie\lMaxShiftViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__movie__alignment_1_1XmippMovieMaxShiftViewer.html"];
+  Node523 -> Node527 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node527 [label="xmipp3.viewers.viewer\l_reconstruct_highres.XmippReconstruct\lHighResViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__reconstruct__highres_1_1XmippReconstructHighResViewer.html"];
+  Node523 -> Node528 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node528 [label="xmipp3.viewers.viewer\l_volume_subtraction.XmippProt\lVolSubtractionViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__volume__subtraction_1_1XmippProtVolSubtractionViewer.html"];
+}
