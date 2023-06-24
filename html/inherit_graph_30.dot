@@ -1,0 +1,45 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node335 [label="ProtocolViewer",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node335 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="viewer_mltomo.XmippMLTomo\lViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classviewer__mltomo_1_1XmippMLTomoViewer.html"];
+  Node335 -> Node337 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node337 [label="xmipp3.viewers.viewer\l_analyze_local_ctf.XmippAnalyze\lLocalCTFViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__analyze__local__ctf_1_1XmippAnalyzeLocalCTFViewer.html"];
+  Node335 -> Node338 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node338 [label="xmipp3.viewers.viewer\l_cl2d.XmippCL2DViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__cl2d_1_1XmippCL2DViewer.html"];
+  Node335 -> Node339 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node339 [label="xmipp3.viewers.viewer\l_consensus_classes.XmippConsensus\lClassesViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__consensus__classes_1_1XmippConsensusClassesViewer.html"];
+  Node335 -> Node340 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node340 [label="xmipp3.viewers.viewer\l_ctf_consensus.XmippCTFConsensus\lViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__ctf__consensus_1_1XmippCTFConsensusViewer.html"];
+  Node335 -> Node341 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node341 [label="xmipp3.viewers.viewer\l_deep_consensus.XmippDeepConsensus\lViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__deep__consensus_1_1XmippDeepConsensusViewer.html"];
+  Node335 -> Node342 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node342 [label="xmipp3.viewers.viewer\l_deep_micrograph_cleaner.Xmipp\lDeepMicrographViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__deep__micrograph__cleaner_1_1XmippDeepMicrographViewer.html"];
+  Node335 -> Node343 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node343 [label="xmipp3.viewers.viewer\l_eliminate_empty_images.Xmipp\lEliminateEmptyViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__eliminate__empty__images_1_1XmippEliminateEmptyViewer.html"];
+  Node335 -> Node344 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node344 [label="xmipp3.viewers.viewer\l_metaprotocol_golden\l_highres.XmippMetaprotocolGolden\lHighResViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__metaprotocol__golden__highres_1_1XmippMetaprotocolGoldenHighResViewer.html"];
+  Node335 -> Node345 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node345 [label="xmipp3.viewers.viewer\l_ml2d.XmippML2DViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__ml2d_1_1XmippML2DViewer.html"];
+  Node335 -> Node346 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node346 [label="xmipp3.viewers.viewer\l_normalize_strain.XmippNormalize\lStrainViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__normalize__strain_1_1XmippNormalizeStrainViewer.html"];
+  Node335 -> Node347 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node347 [label="xmipp3.viewers.viewer\l_projmatch.XmippProjMatchViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__projmatch_1_1XmippProjMatchViewer.html"];
+  Node335 -> Node348 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node348 [label="xmipp3.viewers.viewer\l_resolution3d.XmippResolution3\lDViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__resolution3d_1_1XmippResolution3DViewer.html"];
+  Node335 -> Node349 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node349 [label="xmipp3.viewers.viewer\l_resolution_bfactor.XmippBfactor\lResolutionViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__resolution__bfactor_1_1XmippBfactorResolutionViewer.html"];
+  Node335 -> Node350 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node350 [label="xmipp3.viewers.viewer\l_resolution_directional.Xmipp\lMonoDirViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__resolution__directional_1_1XmippMonoDirViewer.html"];
+  Node335 -> Node351 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node351 [label="xmipp3.viewers.viewer\l_structure_map.XmippProtStructure\lMapViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__structure__map_1_1XmippProtStructureMapViewer.html"];
+  Node335 -> Node352 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node352 [label="xmipp3.viewers.viewer\l_subtract_projection.XmippSubtract\lProjectionViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__subtract__projection_1_1XmippSubtractProjectionViewer.html"];
+  Node335 -> Node353 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node353 [label="xmipp3.viewers.viewer\l_validate_nontilt.XmippValidate\lNonTiltViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__validate__nontilt_1_1XmippValidateNonTiltViewer.html"];
+  Node335 -> Node354 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node354 [label="xmipp3.viewers.viewer\l_volume_deform_zernike3d.Xmipp\lVolumeDeformZernike3DViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__volume__deform__zernike3d_1_1XmippVolumeDeformZernike3DViewer.html"];
+}
