@@ -1,0 +1,19 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node461 [label="EmProtocolViewer",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node461 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="viewer_deep_align.XmippDeep\lAlignViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classviewer__deep__align_1_1XmippDeepAlignViewer.html"];
+  Node461 -> Node463 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node463 [label="xmipp3.viewers.viewer\l_dose_analysis.XmippMovieDose\lAnalysisViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__dose__analysis_1_1XmippMovieDoseAnalysisViewer.html"];
+  Node461 -> Node464 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node464 [label="xmipp3.viewers.viewer\l_extract_asymmetric_unit.viewer\lXmippProtExtractUnit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__extract__asymmetric__unit_1_1viewerXmippProtExtractUnit.html"];
+  Node461 -> Node465 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node465 [label="xmipp3.viewers.viewer\l_movie_alignment.XmippMovie\lMaxShiftViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__movie__alignment_1_1XmippMovieMaxShiftViewer.html"];
+  Node461 -> Node466 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node466 [label="xmipp3.viewers.viewer\l_reconstruct_highres.XmippReconstruct\lHighResViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__reconstruct__highres_1_1XmippReconstructHighResViewer.html"];
+  Node461 -> Node467 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node467 [label="xmipp3.viewers.viewer\l_volume_subtraction.XmippProt\lVolSubtractionViewer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__volume__subtraction_1_1XmippProtVolSubtractionViewer.html"];
+}
