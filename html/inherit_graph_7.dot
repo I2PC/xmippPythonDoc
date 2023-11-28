@@ -1,0 +1,25 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node448 [label="object",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node448 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="deepConsensusWorkers.deep\lConsensus_deepLearning1.DataManager",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classdeepConsensusWorkers_1_1deepConsensus__deepLearning1_1_1DataManager.html"];
+  Node448 -> Node450 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node450 [label="deepConsensusWorkers.deep\lConsensus_deepLearning1.DeepTFSupervised",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classdeepConsensusWorkers_1_1deepConsensus__deepLearning1_1_1DeepTFSupervised.html"];
+  Node448 -> Node451 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node451 [label="python.tompy.filter.Wedge",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpython_1_1tompy_1_1filter_1_1Wedge.html"];
+  Node451 -> Node452 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node452 [label="python.tompy.filter.General\lWedge",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpython_1_1tompy_1_1filter_1_1GeneralWedge.html"];
+  Node451 -> Node453 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node453 [label="python.tompy.filter.Single\lTiltWedge",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpython_1_1tompy_1_1filter_1_1SingleTiltWedge.html"];
+  Node448 -> Node454 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node454 [label="tests.test.Command",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classtests_1_1test_1_1Command.html"];
+  Node448 -> Node455 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node455 [label="xmipp3.protocols.protocol\l_classes_2d_mapping.ScatterImage\lMarker",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__classes__2d__mapping_1_1ScatterImageMarker.html"];
+  Node448 -> Node456 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node456 [label="xmipp3.viewers.viewer\l_structure_map.projectionPlot",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__structure__map_1_1projectionPlot.html"];
+  Node448 -> Node457 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node457 [label="xmipp_base.CondaEnvManager",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp__base_1_1CondaEnvManager.html"];
+}
