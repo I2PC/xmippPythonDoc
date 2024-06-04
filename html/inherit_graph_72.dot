@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="xmipp3.viewers.viewer\l_resolution3d.PointPath",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1viewers_1_1viewer__resolution3d_1_1PointPath.html"];
+}
