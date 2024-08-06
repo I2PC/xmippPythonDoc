@@ -1,0 +1,17 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node386 [label="ProtInitialVolume",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node386 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="xmipp3.protocols.protocol\l_convert_pdb.XmippProtConvertPdb",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__convert__pdb_1_1XmippProtConvertPdb.html"];
+  Node386 -> Node388 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node388 [label="xmipp3.protocols.protocol\l_random_conical_tilt.XmippProtRCT",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__random__conical__tilt_1_1XmippProtRCT.html"];
+  Node386 -> Node389 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node389 [label="xmipp3.protocols.protocol\l_ransac.XmippProtRansac",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__ransac_1_1XmippProtRansac.html"];
+  Node386 -> Node390 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node390 [label="xmipp3.protocols.protocol\l_reconstruct_significant.Xmipp\lProtReconstructSignificant",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__reconstruct__significant_1_1XmippProtReconstructSignificant.html"];
+  Node386 -> Node391 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node391 [label="xmipp3.protocols.protocol\l_volume_consensus.XmippProtVol\lConsensus",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp3_1_1protocols_1_1protocol__volume__consensus_1_1XmippProtVolConsensus.html"];
+}
